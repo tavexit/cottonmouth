@@ -1,21 +1,21 @@
 {
-  "name": "@gotoandplay/cottonmouth",
+  "name": "@tavexit/cottonmouth",
   "version": "1.0.5",
-  "description": "An asset dependency sorting system for Fractal.",
+  "description": "An asset dependency sorting system for Fractal. Copy of @gotoAndPlay/cottonmouth.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gtap-dev/cottonmouth.git"
+    "url": "git+https://github.com/tavexit/cottonmouth.git"
   },
-  "author": "gotoAndPlay",
+  "author": "tavexit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gtap-dev/cottonmouth/issues"
+    "url": "https://github.com/tavexit/cottonmouth/issues"
   },
-  "homepage": "https://github.com/gtap-dev/cottonmouth#readme",
+  "homepage": "https://github.com/tavexit/cottonmouth#readme",
   "dependencies": {
     "defaults": "^1.0.3",
     "lodash": "^4.17.4",
