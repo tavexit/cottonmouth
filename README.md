@@ -4,8 +4,8 @@ An asset dependency sorting system for Fractal.
 
 ## usage
 
-1. Install the package: `npm install @gotoandplay/cottonmouth --save`.
-2. Require the package: `const cottonmouth = require('@gotoandplay/cottonmouth');`
+1. Install the package: `npm install @tavexit/cottonmouth --save`.
+2. Require the package: `const cottonmouth = require('@tavexit/cottonmouth');`
 3. Use it:
 
 ```
