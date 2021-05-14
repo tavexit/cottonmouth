@@ -1,6 +1,6 @@
 {
   "name": "@tavexit/cottonmouth",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An asset dependency sorting system for Fractal. Copy of @gotoAndPlay/cottonmouth.",
   "main": "index.js",
   "scripts": {
